@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'modulo7',
         'USER': 'postgres',
         'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'HOST': 'python ',
         'PORT': '5432',
     }
 }
